@@ -1,16 +1,14 @@
-### 2020-1-11
-1. 建立git仓库
-2. 配置vscode环境
-
-git remote add origin git@github.com:meowsir/Python.git  
-git push -u origin master  
-
-**Branch 'master' set up to track remote branch 'master' from 'origin'.**问题解决方案
-1.添加到本地仓库  
-git add .  
-2.添加提交描述  
-git commit -m '内容'  
-3.提交前先从远程仓库主分支中拉取请求  
-git pull origin master  
-4.把本地仓库代码提交  
-git push -u origin master  
+# 项目TODO
+### 网站
+- [x] [个人站点](http://120.55.88.72:5000/login)
+- [x] [博客](https://meowsir.github.io/)
+- [x] 图床
+- [x] 网盘
+### Python  
+- [x] [微信跳一跳脚本](https://github.com/meowsir/Python-opencv-jump-script)
+- [ ] 人脸识别
+### 树莓派
+- [ ] 股票盯盘系统 
+- [ ] 人脸识别树莓派版本
+- [ ] 躯体控制lot项目
+- [ ] 语音交互
